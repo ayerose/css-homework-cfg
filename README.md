@@ -5,5 +5,4 @@
 <img width="1440" alt="Screenshot 2023-05-05 at 22 33 46" src="https://user-images.githubusercontent.com/56599409/236575012-554a05ef-02dd-4d3e-93c4-d130d3316da0.png">
 
 
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a8e607cde2614816b40148819116adfb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/share/a8e607cde2614816b40148819116adfb
